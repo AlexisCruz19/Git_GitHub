@@ -1,12 +1,12 @@
-Una breve historia de Git
+--- Una breve historia de Git ---
 
-Git es un sistema de control de versiones
+* Git es un sistema de control de versiones
 
-Guardar versiones de tus archivos o proyectos 
+* Guardar versiones de tus archivos o proyectos 
 Volver a versiones anteriores si cometes errores
 Git guarda esas versiones automáticamente, y puedes regresar a cualquiera de ellas cuando quieras
 Trabajar en equipo sin perder trabajo
 
-¿Por qué es tan usado?
+--- ¿Por qué es tan usado? ---
 Porque es rápido, gratuito y te permite colaborar fácilmente en proyectos grandes
 Como lo hacen miles de programadores en GitHub
