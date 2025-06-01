@@ -5,3 +5,7 @@ Git es un sistema de control de versiones
 Guardar versiones de tus archivos o proyectos 
 Volver a versiones anteriores si cometes errores
 Trabajar en equipo sin perder trabajo
+
+¿Por qué es tan usado?
+Porque es rápido, gratuito y te permite colaborar fácilmente en proyectos grandes
+Como lo hacen miles de programadores en GitHub
