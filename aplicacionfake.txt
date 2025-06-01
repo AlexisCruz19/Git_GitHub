@@ -1,3 +1,7 @@
 Una breve historia de Git
 
 Git es un sistema de control de versiones
+
+Guardar versiones de tus archivos o proyectos 
+Volver a versiones anteriores si cometes errores
+Trabajar en equipo sin perder trabajo
