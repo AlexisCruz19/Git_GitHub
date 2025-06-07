@@ -1,4 +1,4 @@
---- Una breve historia de Git y GitHub ---
+--- Apenas empieza lo bueno ---
 
 * Git es un sistema de control de versiones
 
