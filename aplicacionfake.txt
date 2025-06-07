@@ -1,4 +1,4 @@
---- Apenas empieza lo bueno ---
+--- Apenas empieza lo bueno con Git y GitHub ---
 
 * Git es un sistema de control de versiones
 
