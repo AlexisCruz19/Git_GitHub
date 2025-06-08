@@ -1,4 +1,4 @@
---- APENAS EMPIEZA LO BUENO CON GIT Y GITHUB DE ALEXIS ---
+--- EMPIEZA LO BUENO CON GIT Y GITHUB ---
 
 * Git es un sistema de control de versiones
 
