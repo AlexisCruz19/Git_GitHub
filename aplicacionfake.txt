@@ -3,7 +3,7 @@
 * Git es un sistema de control de versiones
 
 * Guardar versiones de tus archivos o proyectos 
-Volver a versiones anteriores si cometes errores [Brayan 2]
+Volver a versiones anteriores si cometes errores [Brayan 0]
 Git guarda esas versiones automáticamente, y puedes regresar a cualquiera de ellas cuando quieras
 Trabajar en equipo sin perder trabajo [Alexis 20]
 
