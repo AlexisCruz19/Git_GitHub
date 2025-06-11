@@ -1,3 +1,5 @@
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/
+
 --- ESPERO TE ESTE GUSTANDO ---
 
 * Git es un sistema de control de versiones
@@ -10,3 +12,5 @@ Trabajar en equipo sin perder trabajo [Alexis 20]
 --- ¿Por qué es tan usado? ---
 Porque es rápido, gratuito y te permite colaborar fácilmente en proyectos grandes
 Como lo hacen miles de programadores en GitHub
+
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/
