@@ -1,4 +1,4 @@
---- EMPIEZA LO BUENO CON GIT Y GITHUB ---
+--- ESPERO TE ESTE GUSTANDO ---
 
 * Git es un sistema de control de versiones
 
